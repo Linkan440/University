@@ -1,0 +1,364 @@
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window10.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window11.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window12.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window13.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window14.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window15.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window16.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window17.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window18.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window19.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window2.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window3.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window4.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window5.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window6.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window7.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window8.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window9.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window10.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window11.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window12.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window13.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window14.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window15.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window16.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window17.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window18.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window19.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window2.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window3.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window4.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window5.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window6.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window7.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window8.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\Window9.baml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.WpfApplication4.exe.config
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window10.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window11.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window12.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window13.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window14.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window15.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window16.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window17.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window18.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window19.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window2.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window3.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window4.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window5.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window6.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window7.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window8.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\Window9.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\ASUS\Downloads\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.xml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.WpfApplication4.exe.config
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window10.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window11.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window12.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window13.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window14.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window15.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window16.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window17.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window2.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window3.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window4.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window5.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window6.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window7.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window8.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window9.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window10.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window11.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window12.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window13.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window14.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window15.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window16.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window17.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window2.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window3.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window4.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window5.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window6.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window7.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window8.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\Window9.baml
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CSE 3106\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.xml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.WpfApplication4.exe.config
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Startup_page.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window10.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window11.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window12.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window13.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window14.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window15.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window16.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window2.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window3.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window4.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window5.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window6.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window7.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window8.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window9.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Startup_page.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window10.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window11.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window12.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window13.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window14.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window15.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window16.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window2.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window3.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window4.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window5.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window6.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window7.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window8.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\Window9.baml
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\ASUS\Desktop\CSE 3106\CSE-3204\WpfApplication4\WpfApplication4\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+E:\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+E:\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+E:\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\Google.Protobuf.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\ZstdNet.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\BouncyCastle.Crypto.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\Ubiety.Dns.Core.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\System.Buffers.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\K4os.Hash.xxHash.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.xml
+E:\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.xml
+E:\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.xml
+E:\WpfApplication4\WpfApplication4\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.WpfApplication4.exe.config
+E:\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window10.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window11.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window12.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window13.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window14.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window15.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window16.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window2.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window3.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window4.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window5.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window6.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window7.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window8.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window9.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+E:\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window10.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window11.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window12.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window13.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window14.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window15.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window16.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window2.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window3.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window4.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window5.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window6.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window7.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window8.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window9.baml
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+E:\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window0.g.cs
+E:\WpfApplication4\WpfApplication4\obj\Debug\Window0.baml
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.WpfApplication4.exe.config
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window0.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window1.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window10.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window11.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window12.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window13.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window14.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window15.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window16.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window2.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window3.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window4.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window5.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window6.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window7.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window8.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window9.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\Google.Protobuf.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\ZstdNet.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\BouncyCastle.Crypto.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\Ubiety.Dns.Core.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\System.Buffers.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\K4os.Compression.LZ4.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\K4os.Hash.xxHash.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.xml
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\MySql.Data.EntityFramework.xml
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\MySql.Web.xml
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window0.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window1.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window10.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window11.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window12.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window13.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window14.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window15.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window16.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window2.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window3.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window4.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window5.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window6.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window7.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window8.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window9.baml
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window17.g.cs
+E:\3.2\WpfApplication4\WpfApplication4\obj\Debug\Window17.baml
